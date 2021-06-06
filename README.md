@@ -1,7 +1,8 @@
 This is the CV Generator Application
 This will help to generate the CV when you provide your information
+This project will help to get familiarize with Java language
 
-Section 1: How to run the Project:
+How to run the Project:
 
 1- Install Sqljdbc jar library in your compiler.
 2- Install plugins required to run a java web application in your compiler. 
